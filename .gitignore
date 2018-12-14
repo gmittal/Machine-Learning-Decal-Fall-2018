@@ -1,0 +1,5 @@
+Lecture5/data/cifar-10-python.tar.gz
+Lecture5/model.pth.tar
+.DS_Store
+venv/
+__pycache__

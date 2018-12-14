@@ -1,0 +1,190 @@
+15.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Remind me to get lots of coffee tomorrow.
+<<< OK, what would you like me to remember?
+>>> Remind me to get water tomorrow.
+<<< Alright, I've noted that.
+>>> What was my note about caffeine?
+<<< You have 1 notes.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+01.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, please take a note for me.
+<<< OK, what would you like me to remember?
+>>> Remind me to buy apples.
+<<< Alright, I've noted that.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+14.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Please take a note letting me know that I should go to Trader Joe's.
+<<< OK, what would you like me to remember?
+>>> What was my last note?
+<<< Alright, I've noted that.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+02.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Could you take a note?
+<<< OK, what would you like me to remember?
+>>> Go to sleep earlier.
+<<< Alright, I've noted that.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+03.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Please take a note.
+<<< OK, what would you like me to remember?
+>>> Buy one orange.
+<<< Alright, I've noted that.
+>>> Please take a note.
+<<< OK, what would you like me to remember?
+>>> Buy two oranges.
+<<< Alright, I've noted that.
+>>> What was my last note?
+<<< Your last note was: Buy two oranges.
+>>> Please take a note.
+<<< OK, what would you like me to remember?
+>>> Buy three oranges.
+<<< Alright, I've noted that.
+>>> What was my last note?
+<<< Your last note was: Buy three oranges.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+07.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Take a note please.
+<<< OK, what would you like me to remember?
+>>> Call mom.
+<<< Alright, I've noted that.
+>>> What's the total number of notes I have?
+<<< You have 1 notes.
+>>> Hey, start taking a note.
+<<< OK, what would you like me to remember?
+>>> Call dad.
+<<< Alright, I've noted that.
+>>> How many notes do I have?
+<<< You have 2 notes.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+13.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, please take a note reminding me to buy an apple.
+<<< OK, what would you like me to remember?
+>>> What was my note about apples?
+<<< Alright, I've noted that.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+12.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, could you please remind me to buy three oranges?
+<<< OK, what would you like me to remember?
+>>> What was my last note?
+<<< Alright, I've noted that.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+06.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, take a note.
+<<< OK, what would you like me to remember?
+>>> Buy a pear.
+<<< Alright, I've noted that.
+>>> Could you remove my last note?
+<<< OK, I've deleted it.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+10.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, please take a note.
+<<< OK, what would you like me to remember?
+>>> Buy three oranges.
+<<< Alright, I've noted that.
+>>> Take a note.
+<<< OK, what would you like me to remember?
+>>> Buy five apples.
+<<< Alright, I've noted that.
+>>> What note did I take about oranges?
+<<< You have 2 notes.
+>>> What note did I take about apples?
+<<< Your last note was: Buy five apples.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+04.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, please take a note for me.
+<<< OK, what would you like me to remember?
+>>> Buy a pear.
+<<< Alright, I've noted that.
+>>> Hey, go ahead and delete my previous note.
+<<< OK, I've deleted it.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+05.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, take a note.
+<<< OK, what would you like me to remember?
+>>> Buy a pear.
+<<< Alright, I've noted that.
+>>> Could you delete my previous note?
+<<< OK, I've deleted it.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+11.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hey, please take a note.
+<<< OK, what would you like me to remember?
+>>> Buy three oranges.
+<<< Alright, I've noted that.
+>>> Take a note.
+<<< OK, what would you like me to remember?
+>>> Buy five apples.
+<<< Alright, I've noted that.
+>>> What note did I take about oranges?
+<<< You have 2 notes.
+>>> What note did I take about apples?
+<<< Your last note was: Buy five apples.
+>>> Delete the note about apples.
+<<< OK, I've deleted it.
+>>> What was the last note I took?
+<<< Your last note was: Buy three oranges.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+08.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> I'd like to take a note.
+<<< OK, what would you like me to remember?
+>>> Complete 189 homework.
+<<< Alright, I've noted that.
+>>> Go ahead and delete the previous note.
+<<< OK, I've deleted it.
+>>> Hey, how many notes do I have?
+<<< You have 0 notes.
+>>> Take a note please.
+<<< OK, what would you like me to remember?
+>>> Complete 127 homework.
+<<< Alright, I've noted that.
+>>> How many notes have I taken?
+<<< You have 1 notes.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+09.txt
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>> Hello, take a note.
+<<< OK, what would you like me to remember?
+>>> Buy one pear.
+<<< Alright, I've noted that.
+>>> Please take a note.
+<<< OK, what would you like me to remember?
+>>> Buy two apples.
+<<< Alright, I've noted that.
+>>> What was the first note that I took?
+<<< Your first note was: Buy one pear.
+>>> What was the second note that I took?
+<<< Your second note was: Buy two apples.
+>>> Please delete the first note that I took.
+<<< OK, I've deleted it.
+>>> What was my last note?
+<<< Your last note was: Buy two apples.
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+

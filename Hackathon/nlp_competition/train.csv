@@ -1,0 +1,31 @@
+"text","start","retrieve","delete","total"
+"Hey, please take a note for me.",1,0,0,0
+"Start to take a note",1,0,0,0
+"Can you take a note for me?",1,0,0,0
+"Take note",1,0,0,0
+"Jot something down please.",1,0,0,0
+"Retrieve the last note",0,1,0,0
+"What was my last note?",0,1,0,0
+"What did I note last?",0,1,0,0
+"Can you tell me what I noted?",0,1,0,0
+"Go ahead and delete the previous note.",0,0,1,0
+"Please delete my last note.",0,0,1,0
+"Delete my laste note.",0,0,1,0
+"Can you remove my last note?",0,0,1,0
+"What's the total number of notes that I have?",0,0,0,1
+"Total number of notes, please",0,0,0,1
+"Can you tell me the total number of notes?",0,0,0,1
+"What are the total number of notes?",0,0,0,1
+"Tell me the total number of notes",0,0,0,1
+"Count my total notes.",0,0,0,1
+"What note did I take?", 0,1,0,0
+"Get the second note",0,1,0,0
+"Can you retrieve my fourth note",0,1,0,0
+"Delete my last note",0,0,1,0
+"Please erase my fifth note",0,0,1,0
+"Show me the first note",0,1,0,0
+"Show me the last note",0,1,0,0
+"Please delete the second note I took",0,0,1,0
+"Delete the first note",0,0,1,0
+"Can you erase my last note?",0,0,1,0
+"Remove my fourth note please",0,0,1,0
